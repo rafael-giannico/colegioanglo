@@ -28,7 +28,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #76e6ff;
+    color: #000000;
 }
 
 /* Estilos para a seção de conteúdo */
@@ -45,7 +45,7 @@ h1 {
 
 /* Estilos para o rodapé */
 footer {
-    background-color: #333;
+    background-color: #76e6ff;
     color: white;
     padding: 10px;
     text-align: center;
