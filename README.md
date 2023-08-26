@@ -1,1 +1,3 @@
 # colegioanglo
+
+O processo utilizado para a elaboração do trabalho foi o de criação de páginas html com sua estilização em arquivos .css. Cada subpágina foi vinculada às páginas pertinentes e os assets foram em parte criados e em parte obtidos da real escola. As maiores dificuldades foram justamente os conteúdos de cada página, tanto no sentido de quais serem escolhidos quanto criar tais conteúdos. As soluções buscadas foram simplistas, sendo criadas imagens contendo as informações pertinentes, uma vez que não eram o assunto principal do trabalho e sim a criação da página em si.
